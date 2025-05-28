@@ -13,3 +13,8 @@ To nurture and support the Ceph contributor and user community by creating progr
 ## Committee Members
 
 * Neha Ojha - Chair
+
+## Committee Updates
+* 
+* 
+* 
