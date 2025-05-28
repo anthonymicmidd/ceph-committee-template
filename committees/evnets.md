@@ -14,3 +14,8 @@ To coordinate Ceph-related events, including Cephalocon, meetups, and virtual su
 
 * Steven Umbehocker - Chair
 * Anthony Lewitt
+
+## Committee Updates
+* 
+* 
+* 
