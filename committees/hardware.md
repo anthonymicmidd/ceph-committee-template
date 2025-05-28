@@ -15,3 +15,8 @@ To ensure the Ceph project has robust access to and knowledge of diverse hardwar
 * Steven Umbehocker - Chair
 * Brett Kelly
 * Enrico Bocchi
+
+## Committee Updates
+* 
+* 
+* 
