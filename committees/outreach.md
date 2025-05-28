@@ -17,3 +17,6 @@ To promote Ceph and increase its visibility by engaging new audiences, strengthe
 * Enrico Bocchi
 
 ## Committee Updates
+* 
+* 
+* 
