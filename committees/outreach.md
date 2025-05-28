@@ -15,3 +15,5 @@ To promote Ceph and increase its visibility by engaging new audiences, strengthe
 * Dan van der Ster - Chair
 * Matthew Leonard
 * Enrico Bocchi
+
+## Committee Updates
