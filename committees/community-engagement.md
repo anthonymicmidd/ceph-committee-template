@@ -1,72 +1,48 @@
-## Ceph Foundation Outreach Committee Mandate
+## Ceph Foundation Community Engagement Committee Mandate
 
 ### Mission
-The Outreach Committee promotes the adoption and visibility of **Ceph**, fosters the growth of the **Ceph community**, and positions Ceph as the premier open-source software-defined storage solution for modern and emerging data needs.
+The Community Engagement Committee fosters a welcoming, inclusive, and supportive environment for all Ceph contributors and users, thereby strengthening the project's fabric by encouraging participation, amplifying diverse voices, and ensuring healthy collaboration.
 
 ### Objectives
-
-* Promote Ceph technology worldwide.
-* Grow the Ceph community across:
-  *  Users (individual and enterprise)
-  * Contributors (developers and non-code contributors)
-  * Companies (commercial users, vendors, ecosystem partners)
-  * Foundation membership (broaden participation and support)
+* Promote inclusive practices and community health across all Ceph initiatives.
+* Encourage sustained contributor engagement across code and non-code roles.
+* Develop onboarding and mentorship programs for new community members.
+* Celebrate community achievements and milestones.
 
 ### Core Activities
-The committee carries out its mission through the following channels:
-1. **Virtual Events**
-* Drive and support:
-  *  Monthly Ceph User/Developer meetings
-  * Monthly Ceph Scientific Users meetings
-  * Other topic-specific or regional virtual sessions as needed.
-
-2. Content & Communications
-* Produce and disseminate blog articles and social media content, such as:
-  * Real-world use-case showcases.
-  * Stories of how Ceph solves problems in production environments.
-  * How-to and educational content about using Ceph.
-  * Highlights of innovation and emerging use of Ceph in AI, HPC, big data, cloud-native, and other domains.
-
-3. Foundation Growth & Engagement
-* Maintain and evolve the official Ceph Foundation pitch deck and related outreach materials.
-* Conduct direct outreach to organizations (users, vendors, service providers, and ecosystem partners) to encourage them to join the Ceph Foundation and participate in the community.
-
-4. Liaison with Events Committee
-* Coordinate closely with the Events Committee to ensure cohesive messaging across in-person and virtual events.
-* Provide input on event content and communications to help reinforce Foundation outreach goals.
-* Cross-promote outreach and event-driven activities where appropriate.
+1. Onboarding & Mentorship
+* Design and maintain onboarding pathways for contributors.
+* Support mentorship initiatives (e.g., GSoC, Outreachy, community pairing programs).
+2. Community Wellness & Culture
+* Promote adherence to the Ceph Code of Conduct.
+* Track community sentiment and address potential friction points.
+* Collaborate with other committees to embed inclusive practices in events, content, and governance.
+3. Recognition & Engagement
+* Highlight outstanding contributors through blog posts, awards, and shout-outs.
+* Facilitate feedback loops between contributors and leadership.
+4. Diversity & Inclusion
+* Encourage broader participation from underrepresented regions and groups.
+* Help remove barriers to entry and create accessible documentation.
 
 ### Key Messaging / Talking Points
-The committee helps tailor messaging to various audiences:
-* Users & Enterprises <br/>
- → Ceph is a rock-solid, highly scalable, and highly flexible unified storage system that can serve as the backend for today’s and tomorrow’s computing.
-
-* Science / Big Data / HPC / AI <br/>
- → Ceph is an exascale, high-performance storage system backing the AI and big data revolution.
-
-* Companies & Ecosystem <br/>
- → Ceph is a platform for innovation. It is “the” place to showcase new technologies and the foundation for addressing today’s and tomorrow’s data-driven challenges.
+* Ceph is built by a global, inclusive, and diverse community.
+* Every contribution—technical or non-technical—matters.
+* We are committed to continuous improvement in community health.
 
 ### Roles & Responsibilities
 * Chair
-  * Provides oversight of the committee activities.
-  * Reports committee activities and progress to the Ceph Foundation Board.
-
+  * Guides the vision and priorities of the committee.
+  * Advocates for community well-being at the Board level.
 * Community Manager
-  * Drives the content and communications activities, including blog articles, social media, and outreach content.
-  * Actively consults with the Ceph community, seeking showcase stories and content that support and advance our messaging.
-  * Owns the official Ceph Foundation pitch deck, taking input from the Chair, Board Members, and Executive Council. Is well-versed in its content, and can present it to prospective Foundation members at any time.
-
-* Board Members
-  * Conduct continuous outreach to grow the Ceph community and Foundation membership.
-
-* Executive Council
-  * Conduct outreach via developer channels to grow the Ceph contributor community.
+  * Tracks engagement metrics and feedback from community members.
+  * Elevates community stories and contributions through Ceph channels.
+* Committee Members
+  * Provide feedback and leadership on engagement strategies.
+  * Participate in community check-ins and wellness initiatives.
 
 ### Committee Members
 * Neha Ojha - Chair
-* Dan van der Ster - Co-Chair
-* Enrico Bocchi 
+* Enrico Bocchi - Co-Chair
 
 ## Committee Updates
 * Planning Cephalocon 25
